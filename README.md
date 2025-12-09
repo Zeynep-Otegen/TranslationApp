@@ -1,6 +1,7 @@
 # TranslationApp
 
-İndir:
+İndir:https://github.com/Zeynep-Otegen/TranslationApp/releases/tag/translator
+
 C# WinForms ile geliştirilmiş, MyMemory Translation API kullanan çok dilli metin çeviri uygulaması.
 
 # Özellikler
